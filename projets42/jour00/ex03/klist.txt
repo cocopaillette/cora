@@ -1,0 +1,5 @@
+Credentials cache: API:6000191D-D25D-427E-BD2E-A89C83598DD1
+        Principal: copayanc@42.FR
+
+  Issued                Expires               Principal
+Aug 30 12:44:50 2016  Sep  6 12:44:46 2016  krbtgt/42.FR@42.FR
